@@ -4,6 +4,7 @@
     "requireBranch": ["main", "staging", "fix-*"]
   },
   "github": {
+    "autoGenerate": true,
     "release": true
   },
   "hooks": {
