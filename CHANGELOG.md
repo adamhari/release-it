@@ -1,5 +1,13 @@
 
 
+## [1.4.0](https://github.com/adamhari/release-it/compare/1.3.0...1.4.0) (2024-06-18)
+
+
+### Features
+
+* make headerImage boring ([a095e28](https://github.com/adamhari/release-it/commit/a095e28516e072125cfc41ac43a8c95dbe4b4eee))
+* make more colors boring ([af7d104](https://github.com/adamhari/release-it/commit/af7d1044886ca4bfab07b3c64bdc48e802c3e2e4))
+
 ## [1.3.0](https://github.com/adamhari/release-it/compare/1.2.0...1.3.0) (2024-06-18)
 
 
