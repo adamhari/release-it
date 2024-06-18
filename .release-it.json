@@ -1,4 +1,7 @@
 {
+  "git": {
+    "requireBranch": ["main", "staging", "fix-*"]
+  },
   "github": {
     "release": true
   },
