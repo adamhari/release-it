@@ -1,5 +1,12 @@
 
 
+## [1.3.0](https://github.com/adamhari/release-it/compare/1.2.0...1.3.0) (2024-06-18)
+
+
+### Features
+
+* add linting git hooks via lefthook ([fcaeffe](https://github.com/adamhari/release-it/commit/fcaeffea34366b83622862bd48e6e617b282045b))
+
 ## [1.2.0](https://github.com/adamhari/release-it/compare/1.1.0...1.2.0) (2024-06-18)
 
 
