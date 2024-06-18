@@ -5,5 +5,13 @@
   },
   "hooks": {
     "after:bump": "jq '.buildNumber |= .+1' package.json > tmp.json && mv tmp.json package.json"
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": {
+        "name": "conventionalcommits"
+      },
+      "infile": "CHANGELOG.md"
+    }
   }
 }
