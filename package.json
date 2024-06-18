@@ -11,7 +11,7 @@
     "web": "expo start --web",
     "test": "jest --watchAll",
     "lint": "expo lint",
-    "release": "release-it"
+    "release": "release-it --ci"
   },
   "jest": {
     "preset": "jest-expo"
