@@ -1,0 +1,8 @@
+{
+  "github": {
+    "release": true
+  },
+  "hooks": {
+    "after:bump": "oldBuildNumber=$(jq '.buildNumber' package.json) && jq '.buildNumber += 1' package.json > package.json.tmp && mv package.json.tmp package.json"
+  }
+}
