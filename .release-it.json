@@ -1,6 +1,5 @@
 {
   "github": {
-    "autoGenerate": true,
     "release": true
   },
   "hooks": {
