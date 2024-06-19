@@ -1,5 +1,7 @@
 
 
+## [1.4.1](https://github.com/adamhari/release-it/compare/1.3.0...1.4.1) (2024-06-19)
+
 ## [1.4.0](https://github.com/adamhari/release-it/compare/1.3.0...1.4.0) (2024-06-18)
 
 
